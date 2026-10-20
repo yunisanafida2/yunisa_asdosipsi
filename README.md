@@ -3,6 +3,7 @@ Praktikum Implementasi Pengujian Sistem Informasi S1_24
 
 Anggota Kelompok:
 1. Aura Nurlaelah Azzahra
+2. Hamdan Maulana
 
 Deskripsi Proyek
 Repository ini digunakan untuk keperluan praktikum Implementasi dan Pengujian Sistem Informasi, termasuk implementasi desain berorientasi objek berdasarkan diagram UML ke dalam source code.
